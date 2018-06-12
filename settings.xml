@@ -1,7 +1,7 @@
 <settings>
 <servers>
     <server>
-      <id>releases</id>
+      <id>12345</id>
       <username>admin</username>
       <password>admin123</password>
     </server>
