@@ -153,7 +153,7 @@
 	</build>
 	<distributionManagement>
         <repository>
-            <id>releases</id>
+            <id>project-qa</id>
             <url>http://35.237.114.49:7777/nexus/content/repositories/project-qa</url>
         </repository>
     	</distributionManagement>
