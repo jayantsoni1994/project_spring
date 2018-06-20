@@ -157,8 +157,8 @@
    <version>2.2</version>
    <configuration>
   	 <url>http://35.185.9.147:8074/manager/text</url>
-  	 <server>Project-Spring</server>
-  	 <path>/WebApps</path>
+  	 <server>TomcatServer</server>
+  	 <path>/Project-Spring</path>
    </configuration>
 </plugin>
 		<plugin>
