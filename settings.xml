@@ -11,7 +11,7 @@
       <password>admin123</password>
     </server>
      <server>
-                 <id>Project-Spring</id>
+                 <id>TomcatServer</id>
                  <username>deploy<username>
                  <password>devops</password>
          </server>
