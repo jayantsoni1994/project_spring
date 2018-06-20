@@ -6,7 +6,7 @@
 	<groupId>com.websystique.springmvc</groupId>
 	<artifactId>SpringHibernateExample</artifactId>
 	<packaging>war</packaging>
-	<version>5.0</version>
+	<version>1.2-SNAPSHOTS</version>
 	<name>SpringHibernateExample</name>
 
 	<properties>
