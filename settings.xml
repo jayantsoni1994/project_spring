@@ -10,5 +10,10 @@
       <username>admin</username>
       <password>admin123</password>
     </server>
+     <server>
+                 <id>Project-Spring</id>
+                 <username>deploy<username>
+                 <password>devops</password>
+         </server>
 </servers>
 </settings>
