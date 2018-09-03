@@ -11,7 +11,7 @@
       <password>admin123</password>
     </server>
      <server>
-                 <id>TomcatServer</id>
+                 <id>TomcatServer1</id>
                  <username>deploy<username>
                  <password>devops</password>
          </server>
